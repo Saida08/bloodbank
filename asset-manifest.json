@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/0364/static/css/main.194c6398.css",
-    "main.js": "/0364/static/js/main.b22db4a3.js",
-    "static/js/453.7cc2c848.chunk.js": "/0364/static/js/453.7cc2c848.chunk.js",
-    "index.html": "/0364/index.html",
-    "main.194c6398.css.map": "/0364/static/css/main.194c6398.css.map",
-    "main.b22db4a3.js.map": "/0364/static/js/main.b22db4a3.js.map",
-    "453.7cc2c848.chunk.js.map": "/0364/static/js/453.7cc2c848.chunk.js.map"
+    "main.css": "/bloodbank/static/css/main.194c6398.css",
+    "main.js": "/bloodbank/static/js/main.3bd2d752.js",
+    "static/js/453.7cc2c848.chunk.js": "/bloodbank/static/js/453.7cc2c848.chunk.js",
+    "index.html": "/bloodbank/index.html",
+    "main.194c6398.css.map": "/bloodbank/static/css/main.194c6398.css.map",
+    "main.3bd2d752.js.map": "/bloodbank/static/js/main.3bd2d752.js.map",
+    "453.7cc2c848.chunk.js.map": "/bloodbank/static/js/453.7cc2c848.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.194c6398.css",
-    "static/js/main.b22db4a3.js"
+    "static/js/main.3bd2d752.js"
   ]
 }
